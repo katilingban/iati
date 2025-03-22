@@ -7,3 +7,5 @@
 ^\.Rproj\.user$
 ^README\.Rmd$
 ^README-.*\.png$
+^\.github$
+^CODE_OF_CONDUCT\.md$
